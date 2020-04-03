@@ -6,5 +6,5 @@ Fibonacci
 Pi calculation  
 Linear regression  
 Probability to get a Straight Flush  
-Probability to get a number with certain dices
+Probability to get a number with certain dices  
 Mean, variance and standard deviation
